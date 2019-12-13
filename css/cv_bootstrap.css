@@ -1,0 +1,45 @@
+[class*="col-"] {
+    padding: 0;
+}
+section ul{
+    color: black;
+}
+body{
+    background: url("../images/Darkgreybackground.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+footer{
+    background-color: #17a2b7;
+}
+section h3{
+    font-size: 1.6em;
+    margin-bottom: 1vh;
+    margin-top: 2vh;
+}
+ul p{
+    margin:0 ;
+    text-align: center;
+    font-size: 0.8em;
+    color: #1c1d21;
+}
+section {
+    margin-bottom: 2vh;
+}
+header nav{
+    margin-bottom: 3vh;
+}
+.expcomp{
+    margin-left: 0.1%
+}
+span{
+    font-weight: bold;
+    color: #27a844 ;
+}
+ul img{
+    width: 2vw;
+    height: 2vh;
+}
