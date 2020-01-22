@@ -5,7 +5,7 @@ section ul{
     color: black;
 }
 body{
-    background-color: #2a2d32;
+    background-color: rgb(55, 61, 77);
     color: white;
 }
 footer{
@@ -20,10 +20,11 @@ ul p{
     margin:0 ;
     text-align: center;
     font-size: 0.8em;
-    color: #1c1d21;
+    color: rgb(55, 61, 77);
 }
 section {
     margin-bottom: 2vh;
+    background-color: white;
 }
 header nav{
     margin-bottom: 3vh;
@@ -33,9 +34,50 @@ header nav{
 }
 span{
     font-weight: bold;
-    color: #27a844 ;
+    color: rgb(242, 93, 50) ;
 }
 ul img{
     width: 2vw;
     height: 2vh;
+}
+nav img
+{
+    height: 4%;
+    width: 4%;
+}
+nav
+{
+    background-color: rgb(242, 93, 50);
+}
+footer
+{
+    background-color: rgb(242, 93, 50);
+}
+a{
+    color:rgb(99, 217, 231) ;
+}
+.progress
+{
+    background-color: rgb(55, 61, 77);
+}
+.progress-bar
+{
+    background-color: rgb(99, 217, 231);
+}
+section h2
+{
+    color:rgb(55, 61, 77) ;
+}
+section{
+    border: white solid 1px;
+    border-radius: 12px;
+}
+#competences,#formation,#interets,#experiences
+{
+    color: rgb(55, 61, 77) ;
+}
+nav,footer
+{
+    border:1px solid white;
+    border-radius: 12px;
 }
